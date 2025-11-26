@@ -29,11 +29,11 @@ public class MyCalc {
 	}
 	public void demo()
 	{
-		System.out.println("This is demo!");
+		System.out.println("This is Kamran!");
 	}
 	public void hello()
 	{
-		System.out.println("This is Hello!");
+		System.out.println("This is Ambika Prasad Nayak!");
 	}
 	
 	
