@@ -29,7 +29,7 @@ public class MyCalc {
 	}
 	public void demo()
 	{
-		System.out.println("This is Kamran!");
+		System.out.println("This is Kamran khan!");
 	}
 	public void hello()
 	{
